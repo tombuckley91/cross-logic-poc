@@ -3,11 +3,13 @@ module.exports = {
   settings: {
     next: {
       rootDir: [
-        "apps/docs/",
+        "apps/app/",
         "apps/web/",
         "packages/ui/",
         "packages/config/",
         "packages/tsconfig/",
+        "packages/react-sdk/",
+        "packages/expo-yarn-workspaces",
       ],
     },
   },

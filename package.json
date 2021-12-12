@@ -1,5 +1,5 @@
 {
-  "name": "turborepo-basic",
+  "name": "mono-poc",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
@@ -31,7 +31,7 @@
         "outputs": []
       },
       "dev": {
-        "cache": false
+        "cache": true
       }
     }
   }
