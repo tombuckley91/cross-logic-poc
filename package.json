@@ -29,9 +29,6 @@
       },
       "lint": {
         "outputs": []
-      },
-      "dev": {
-        "cache": true
       }
     }
   }
